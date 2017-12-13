@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I´m a Owl that lives in a little tree in South Ameria
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like the Series, Games, GameJam, Programming, Hack and Open Source.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[BuhoAFK@protonmail.com](mailto:BuhoAFK@protonmail.com)
